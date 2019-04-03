@@ -34,13 +34,13 @@ These are positions that don&#39;t necessarily have to attend the weekend events
 
 **Program Managers:** There are a number of programs we&#39;d like to start or which have been stalled because of bandwidth limits. Main ones needing people to drive them:
 
-1: &quot;Pop-Up Dojo&quot; program - creating a &quot;Dojo in a box&quot; kit of laptops and hotspots that can go out to alternate locations to run a Dojo for 15-20 kids and provide opportunities to communities that aren&#39;t able to get to the Amazon campus on Saturday mornings. This would involve getting the kit together, then working on outreach to find and interface with groups and sites interested in a Pop-Up Dojo visit, then wrangling volunteers to staff the visit.
+1. &quot;Pop-Up Dojo&quot; program - creating a &quot;Dojo in a box&quot; kit of laptops and hotspots that can go out to alternate locations to run a Dojo for 15-20 kids and provide opportunities to communities that aren&#39;t able to get to the Amazon campus on Saturday mornings. This would involve getting the kit together, then working on outreach to find and interface with groups and sites interested in a Pop-Up Dojo visit, then wrangling volunteers to staff the visit.
 
-2: Volunteer Recruitment and Retention - We need help with recruiting new volunteers, improving the application and onboarding processes, and improving communication (and showing our gratitude).
+2. Volunteer Recruitment and Retention - We need help with recruiting new volunteers, improving the application and onboarding processes, and improving communication (and showing our gratitude).
 
-3: Fundraising - We run &quot;lean and mean,&quot; and don&#39;t need much money. Our expenses are mostly covered by the $10 voluntary add-ons some parents include in their ticket reservations. But with a non-profit partner who can take bigger donations for us and goals to hopefully expand the Pop-Up Dojo program, extra funds wouldn&#39;t hurt.
+3. Fundraising - We run &quot;lean and mean,&quot; and don&#39;t need much money. Our expenses are mostly covered by the $10 voluntary add-ons some parents include in their ticket reservations. But with a non-profit partner who can take bigger donations for us and goals to hopefully expand the Pop-Up Dojo program, extra funds wouldn&#39;t hurt.
 
-4: Teen Outreach - We get a lot of young kids, but we don&#39;t seem to get many teens. We have some ideas why, but we&#39;d love someone who would like to take on analyzing this and working on initiatives to get more teens interested and make Dojo a rewarding experience for them.
+4. Teen Outreach - We get a lot of young kids, but we don&#39;t seem to get many teens. We have some ideas why, but we&#39;d love someone who would like to take on analyzing this and working on initiatives to get more teens interested and make Dojo a rewarding experience for them.
 
 ## Unique Challenges
 
