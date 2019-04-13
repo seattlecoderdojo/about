@@ -20,7 +20,7 @@ Seattle Coderdojo needs volunteers in the following categories:
 
 ### Day of Events
 
-**Event Mentors (3-4 per event):** Event mentors work in the classrooms, helping students complete their tutorials or projects. Requires 2.5 hours on the day of the event and up to 1.5 hours of prep pre-event. Event mentors may also propose and teach five-week workshops in the rotating content room or propose a one-day &quot;interest table&quot; lesson/tutorial they&#39;d like to lead in the hacker room.
+**Event Mentors (8-10 per event):** Event mentors work in the classrooms, helping students complete their tutorials or projects. Requires 2.5 hours on the day of the event and up to 1.5 hours of prep pre-event. Event mentors may also propose and teach five-week workshops in the rotating content room or propose a one-day &quot;interest table&quot; lesson/tutorial they&#39;d like to lead in the hacker room.
 
 **Event Ushers (non-technical, 1-2 per event):** Event Ushers help staff the laptop checkout table and guide guests from the elevators to the correct classroom.
 
